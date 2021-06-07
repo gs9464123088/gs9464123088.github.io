@@ -1,0 +1,71 @@
+#header-nav{
+  background-color: #346C7D; 
+}
+.navbar-brand {
+  padding-top:25px;
+}
+.navbar-brand h1 { /* Website name */
+  font-family: arial, helvetica, sans-serif;
+  color:  #FFFFFF;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+  padding: 20px;
+}
+nav {
+  background-color: #FFA500;
+}
+#chicken{
+  background-color: #46A35D;
+  color: #FFFFFF;
+  margin-top: 30px;
+}
+#fish{
+  background-color: #A38872;
+  color: #FFFFFF;
+  margin-top: 30px;
+}
+#mal{
+  background-color: #BB4900;
+  color: #FFFFFF;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+h1{
+  color: #303030;
+}
+h2{
+  color: #000000;
+}
+a{
+  display: block;
+  text-align: center;
+  padding: 30px;
+}
+a:link {
+  color: #00FF00;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: #FFFFFF;
+  background-color: transparent;
+  text-decoration: none;
+}
+footer{
+  background-color: #000000;
+}
+#end{
+  color: #FFFFFF;
+  padding-bottom: 30px;
+}
+body{
+  background-image: url("food.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
